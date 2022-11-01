@@ -4,6 +4,8 @@ A Book Style intended for upload to Fidus Writer.
 
 Style name: Report001
 
+Example use: [Quick Start Guide – A Publishing Pipeline EN](https://mrchristian.github.io/guide-en/)
+
 Use: The style is intended for public reports, policy documents, and short guides, etc.
 
 Contents:
