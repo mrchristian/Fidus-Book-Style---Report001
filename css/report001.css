@@ -10,7 +10,7 @@ src: local('Fira Sans Regular'), local('FiraSans-Regular'), url(media/FiraSans-R
     font-family: "Fira Sans";
     font-weight: 400;
     font-style: italic;
-    src: local('Fira Sans Italic'), local('FiraSans-Italic'), url(media/FiraSans-Italic.ttf) format('truetype');
+    src: local('Fira Sans Italic'), local('FiraSans-Italic'), url(FiraSans-Italic.ttf) format('truetype');
 }
 @font-face {
     font-family: "Fira Sans";
